@@ -1,7 +1,7 @@
 
 class MarvelService {
     _apiBase = 'https://gateway.marvel.com:443/v1/public/';
-    _apiKey = process.env.REACT_APP_MARVEL_API_KEY;
+    _apiKey = '0f8b6f36b644387fb02a919657af13b2';
     _baseOffset = 210;
     
 
