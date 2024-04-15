@@ -1,6 +1,6 @@
 # Created with Create React App
 
-[Deploy](https://ilsapunov.github.io/)
+[Deploy](https://ilsapunov.github.io/react-marvel-info-portal)
 
 # Created with Create React App
 
