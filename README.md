@@ -1,4 +1,4 @@
-# Created with Create React App
+# Marvel Info Portal
 
 [Deploy](https://ilsapunov.github.io/react-marvel-info-portal)
 
