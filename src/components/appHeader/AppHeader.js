@@ -5,15 +5,15 @@ const AppHeader = () => {
     return (
         <header className="app__header">
             <h1 className="app__title">
-                <Link to="/">
+                <Link to="/react-marvel-info-portal/">
                     <span>Marvel</span> information portal
                 </Link>
             </h1>
             <nav className="app__menu">
                 <ul>
-                    <li><NavLink exact activeStyle={{'color': '#9f0013'}} to="/">Characters</NavLink></li>
+                    <li><NavLink exact activeStyle={{'color': '#9f0013'}} to="/react-marvel-info-portal/">Characters</NavLink></li>
                     /
-                    <li><NavLink activeStyle={{'color': '#9f0013'}} to="/comics">Comics</NavLink></li>
+                    <li><NavLink activeStyle={{'color': '#9f0013'}} to="/react-marvel-info-portal/comics">Comics</NavLink></li>
                 </ul>
             </nav>
         </header>
